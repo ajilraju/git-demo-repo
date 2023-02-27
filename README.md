@@ -1,2 +1,2 @@
 # Git demo project
-Git demo repo - for session
+Git demo repo for sessions
